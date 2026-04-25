@@ -11,5 +11,5 @@ A Python tool for analyzing log files and detecting suspicious activities.
 ## Usage
 
 ```bash
-python main.py log.txt --stats --alerts
+python analyzer.py test.log --stats --alerts
 
