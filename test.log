@@ -1,0 +1,23 @@
+2026-04-23 10:00:01 INFO Server started
+2026-04-23 10:00:02 INFO Connection established
+
+2026-04-23 10:00:05 WARNING login failed for admin from 192.168.1.1
+2026-04-23 10:00:06 WARNING login failed for admin from 192.168.1.1
+2026-04-23 10:00:07 WARNING login failed for admin from 192.168.1.1
+
+2026-04-23 10:00:20 ERROR login failed for root from 10.0.0.5
+2026-04-23 10:00:25 ERROR login failed for root from 10.0.0.5
+
+2026-04-23 10:01:00 WARNING user: guest failed login from 172.16.0.3
+2026-04-23 10:01:05 WARNING user: guest failed login from 172.16.0.3
+2026-04-23 10:01:07 WARNING user: guest failed login from 172.16.0.3
+
+2026-04-23 10:02:00 ERROR database connection failed
+2026-04-23 10:02:10 WARNING disk almost full
+
+2026-04-23 10:03:00 INFO user logged in successfully
+
+# بيانات خاطئة (لا يجب أن تُحتسب)
+2026-04-23 10:04:00 WARNING fake ip 999.999.999.999
+2026-04-23 10:04:05 WARNING number 1234.5678.9999.0000
+2026-04-23 10:04:10 WARNING user randomtext not real
