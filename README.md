@@ -15,7 +15,7 @@ python analyzer.py test.log --stats --alerts
 ```
 
 ## Example Output
-![Output](images/Screenshot From 2026-04-26 09-04-58.png)
+![Output](images/Output.png)
 
 
 
