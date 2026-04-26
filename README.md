@@ -8,8 +8,17 @@ A Python tool for analyzing log files and detecting suspicious activities.
 - Detect brute force attacks (time-based)
 - Export results to JSON
 
-## Usage
+## Example Usage
 
 ```bash
 python analyzer.py test.log --stats --alerts
+```
+
+## Example Output
+![Output](images/Screenshot From 2026-04-26 09-04-58.png)
+
+
+
+
+
 
