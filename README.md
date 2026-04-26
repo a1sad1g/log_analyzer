@@ -11,7 +11,7 @@ A Python tool for analyzing log files and detecting suspicious activities.
 ## Example Usage
 
 ```bash
-python analyzer.py test.log --stats --alerts
+python analyzer.py test.log --stats --alerts --type ERROR  
 ```
 
 ## Example Output
